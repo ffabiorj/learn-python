@@ -2,22 +2,21 @@
 This is a documentation of me learning python from basic to advanced.
 
 
-## Basic Python Course 
-### Lynda Python 3 Essential Training
+## Beginner Level Python
 | Topic | Category | Status
 | --- | --- | --- |
-| Basic Syntax | Basic |
-| General Syntax | Basic | 
-| Variables, Objects and Values | Basic |
-| Conditionals | Basic | 
-| Loops | Basic | 
-| Operators | Basic | 
-| Regular Expressions | Basic |
-| Exceptions | Basic |
-| Functions | Basic | 
-| Classes | Basic |
-| String Methods | Basic |
-| Container | Basic |
-| File IO | Basic |
-| Modules | Basic | 
-| Debugging | Basic | 
+| Basic Syntax | Lynda Python 3 Essential Training |
+| General Syntax | Lynda Python 3 Essential Training | 
+| Variables, Objects and Values | Lynda Python 3 Essential Training |
+| Conditionals | Lynda Python 3 Essential Training | 
+| Loops | Lynda Python 3 Essential Training | 
+| Operators | Lynda Python 3 Essential Training | 
+| Regular Expressions | Lynda Python 3 Essential Training |
+| Exceptions | Lynda Python 3 Essential Training |
+| Functions | Lynda Python 3 Essential Training | 
+| Classes | Lynda Python 3 Essential Training |
+| String Methods | Lynda Python 3 Essential Training |
+| Container | Lynda Python 3 Essential Training |
+| File IO | Lynda Python 3 Essential Training |
+| Modules | Lynda Python 3 Essential Training | 
+| Debugging | Lynda Python 3 Essential Training | 
