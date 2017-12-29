@@ -4,20 +4,20 @@ This is a documentation of me learning python from basic to advanced.
 
 ## Basic Python Course 
 ### Lynda Python 3 Essential Training
-| Topic | Status |
+| Topic | Category | Status
 | --- | --- |
-| Basic Syntax |
-| General Syntax | 
-| Variables, Objects and Values |
-| Conditionals | 
-| Loops | 
-| Operators | 
-| Regular Expressions |
-| Exceptions |
-| Functions | 
-| Classes |
-| String Methods |
-| Container |
-| File IO |
-| Modules | 
-| Debugging | 
+| Basic Syntax | Basic |
+| General Syntax | Basic | 
+| Variables, Objects and Values | Basic |
+| Conditionals | Basic | 
+| Loops | Basic | 
+| Operators | Basic | 
+| Regular Expressions | Basic |
+| Exceptions | Basic |
+| Functions | Basic | 
+| Classes | Basic |
+| String Methods | Basic |
+| Container | Basic |
+| File IO | Basic |
+| Modules | Basic | 
+| Debugging | Basic | 
