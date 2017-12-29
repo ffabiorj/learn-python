@@ -32,4 +32,4 @@ I found another great course to watch and study advanced Python OOP on O'Reilly 
 * Apply powerful OOP concepts to handle complexity 
 * Handle errors (exceptions)
 * Serialization
-* Debug, test and benchmark code
+* Debug, test and benchmark code.
