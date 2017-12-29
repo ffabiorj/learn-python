@@ -5,7 +5,7 @@ This is a documentation of me learning python from basic to advanced.
 ## Basic Python Course 
 ### Lynda Python 3 Essential Training
 | Topic | Category | Status
-| --- | --- |
+| --- | --- | --- |
 | Basic Syntax | Basic |
 | General Syntax | Basic | 
 | Variables, Objects and Values | Basic |
