@@ -33,3 +33,12 @@ I found another great course to watch and study advanced Python OOP on O'Reilly 
 * Handle errors (exceptions)
 * Serialization
 * Debug, test and benchmark code
+
+## Codewars
+I play [codewars](https://codewars.com) on my freetime to level up my thinking skills using python. It's a great thinking exercise to do in the morning as well as before ending the day. 
+
+| Name | Description | Level
+| --- | --- | --- |
+| [binary-addition.py](https://github.com/piratedv/learn-python/blob/master/codewars/binary-addition.py) | Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition. | Beginner |
+| [digital-root.py](https://github.com/piratedv/learn-python/blob/master/codewars/digital-root.py) | A digital root is the recursive sum of all the digits in a number. 
+Given n, take the sum of the digits of n. If that value has two digits, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers. | Beginner
