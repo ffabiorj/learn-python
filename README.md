@@ -1,43 +1,24 @@
 # learn-python
-This is a documentation of me learning python from basic to advanced. I'm currently pursuing the position as a django backend developer (this may change over time as my interest grows more on python or other specific roles).
+Share the love, leave a star.
+Follow me on twitter [@thepiratedv](https://twitter.com/thepiratedev) for more updates.
 
-## Mindmap
-Below is a mindmap of what I intend to learn in order to find a job as a python developer. I'll start listing out the basics to advanced in learning python then change some of the nodes and create a better map to fit my interest.
+## Intro
+Hi, if you're still learning python like me then this is the repository for you! I'll share and document my steps in learning python so you can use it as a guide.
+
+## Mindmap / Roadmap
+Here's a mindmap I made and this is the topics I will be learning to get a good grasp of python and be awesome at it. You can view it [here](https://coggle.it/diagram/Wk6pMRImdAABAXL9/t/-) too.
 
 ![mindamp](mindmap.png)
 
-## Beginner Python
-Lynda's Python 3 Essential Training  was super easy to understand and learn python. As soon as I finished the course, I found myself more comfortable writing python code. The course covers almost all the possible basic things you could do with python such as creating variables, using functions, loops, classes etc.
 
-### Things I learned 
-* Variables
-* Conditionals 
-* Loops
-* Operators
-* Regexes
-* Exceptions
-* Functions 
-* Classes 
-* Strings 
-* Containers 
-* Handling files
-* Modules
-* Debugging
+## Preparation
+Before you start learning python, I recommend you to create a repository so you can put all the scripts you made for later use. It'll make your github profile look good too. 
 
-## Advanced Python OOP 
-I found another great course to watch and study advanced Python OOP on O'Reilly by David Blaikie. The course is pretty much on point and great to watch after learning the basics of Python and creating a few [projects](https://github.com/piratedv) of my own.
+## Basics
+We'll learn all the basics of python by watching free courses on youtube. I recommend watching this youtube [playlist](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) by Derek Banas. It covers most of the basic tutorial. There are assignments he will be asking you to do so don't forget to put all your scripts to your repository. 
 
-### Things I learned 
-* Design reusable OOP Python classes
-* Apply powerful OOP concepts to handle complexity 
-* Handle errors (exceptions)
-* Serialization
-* Debug, test and benchmark code
+The course has 26 episodes. I watched 6 episodes a day.
 
-## Codewars
-I play [codewars](https://codewars.com) on my freetime to level up my thinking skills using python. It's a great thinking exercise to do in the morning as well as before ending the day. 
-
-| Name | Description | Level
-| --- | --- | --- |
-| [binary-addition.py](https://github.com/piratedv/learn-python/blob/master/codewars/binary-addition.py) | Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition. | Beginner |
-| [digital-root.py](https://github.com/piratedv/learn-python/blob/master/codewars/digital-root.py) | A digital root is the recursive sum of all the digits in a number. Given n, take the sum of the digits of n. If that value has two digits, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers. |Beginner
+Follow him for more content and awesome tutorial.
+[Twitter](https://twitter.com/NewThinkTnank)
+[channel](https://www.youtube.com/user/derekbanas)
