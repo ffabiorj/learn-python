@@ -71,7 +71,18 @@ print("Total Rows:", numOfRows[0][0])
 theCursor.execute("SELECT SQLITE_VERSION()")
 print("SQLite Version: ", theCursor.fetchone())
 
+with db_conn:
+	db_conn.row_factory = sqlite3.Row
+	theCursor = db_conn.cursor()
+	theCursor.execute("SELECT * FROM Employees")
+	rows = theCursor.fetchall()
 
+	for row in rows:
+		print(f"{row['Fname']} {row['Lname']}")
+
+with open('dump.sql', 'w') as f:
+	for line in db_conn.iterdump():printDB()
+		f.write("%s\n " % line )
 
 db_conn.close()
 print("Database closed")
