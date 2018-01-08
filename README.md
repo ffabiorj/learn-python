@@ -16,7 +16,7 @@ We'll learn all the basics of python by watching free courses on youtube. I reco
 - [x] Watch all videos.
 - [x] Do all assignments.
 
-Follow him on [twitter](https://twitter.com/NewThinkTnank) and subscribe to his [channel](https://www.youtube.com/user/derekbanas) more content and awesome tutorials.
+Follow him on [twitter](https://twitter.com/newthinktank) and subscribe to his [channel](https://www.youtube.com/user/derekbanas) more content and awesome tutorials.
 
 
 ### Hackathons
